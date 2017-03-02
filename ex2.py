@@ -17,4 +17,3 @@ def read_data(filename):
 lines=read_data('age.txt')
 print(lines)
 
-#TODO home
